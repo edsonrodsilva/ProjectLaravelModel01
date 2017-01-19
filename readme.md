@@ -16,9 +16,6 @@ Contem
 
 3 - composer install
 
-# Dependencias
-
-composer require "laravelcollective/html":"^5.3.0"
-
+4 - php artisan vendor:publish
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
