@@ -7,6 +7,7 @@ Contem
 - Laravel Collective
 - Laravel 5 Repositories
 - Tradução das mensagens de erros para Português do Brasil
+- Timezone = America/Sao_Paulo
 
 # Instalação
 
